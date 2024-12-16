@@ -1,5 +1,5 @@
 ## Currently a computer engineering student at the Univeristy of Florida :)
-## Just exploring the programming world
+## Just exploring the programming world 🌱
 
 <!--
 **GalaxyPM/GalaxyPM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
